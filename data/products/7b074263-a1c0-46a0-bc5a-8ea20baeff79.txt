@@ -1,0 +1,8 @@
+{
+    "name": "Лапша рисовая",
+    "description": "Безглютеновая лапша из рисовой муки",
+    "price": 120,
+    "category": "Продукты",
+    "receipt_date": "2023-02-10",
+    "image_url": "https://i3.stat01.com/1/4418/44175928/075a3e/quot-sen-soj-quot-risovaya-lapsha-fo-ho-paket-200gr.jpg"
+}

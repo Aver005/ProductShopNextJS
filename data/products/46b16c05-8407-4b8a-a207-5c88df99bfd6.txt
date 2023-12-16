@@ -1,0 +1,8 @@
+{
+    "name": "Семена подсолнечника",
+    "description": "Высокоурожайные семена для посадки",
+    "price": 5,
+    "category": "Садоводство",
+    "receipt_date": "2023-08-10",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

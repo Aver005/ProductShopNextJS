@@ -1,0 +1,8 @@
+{
+    "name": "Камера Canon EOS",
+    "description": "Зеркальная камера с разрешением 24 мегапикселя",
+    "price": 600,
+    "category": "Электроника",
+    "receipt_date": "2024-01-05",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

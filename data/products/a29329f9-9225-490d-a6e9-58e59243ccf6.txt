@@ -1,0 +1,8 @@
+{
+    "name": "Теннисные мячи",
+    "description": "Упаковка из 4 теннисных мячей для тренировок",
+    "price": 25,
+    "category": "Спорт и отдых",
+    "receipt_date": "2023-10-20",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

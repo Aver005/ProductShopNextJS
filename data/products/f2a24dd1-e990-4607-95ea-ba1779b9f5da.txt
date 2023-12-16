@@ -1,0 +1,8 @@
+{
+    "name": "Паста гречневая",
+    "description": "Паста из гречневой муки, идеальна для безглютеновой диеты",
+    "price": 90,
+    "category": "Продукты",
+    "receipt_date": "2023-09-15",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

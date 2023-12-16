@@ -1,0 +1,8 @@
+{
+    "name": "Яблоки Гала",
+    "description": "Сочные и сладкие яблоки сорта Гала",
+    "price": 80,
+    "category": "Фрукты",
+    "receipt_date": "2023-04-20",
+    "image_url": "https://fruitsparadise.ru/wp-content/uploads/2020/09/гала-1.jpg"
+}

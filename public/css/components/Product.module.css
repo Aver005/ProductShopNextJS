@@ -1,0 +1,41 @@
+.Product
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: stretch;
+    text-align: center;
+    width: 14vw;
+    height: 34vh;
+    border-radius: 2vh;
+    margin: 2vh;
+    background-color: #eee;
+}
+
+.Product img
+{
+    width: 100%;
+    height: 14vh;
+    object-fit: cover;
+}
+
+.Product strong
+{
+    font-size: 2.4vh;
+    color: #303030;
+    margin: 1vh;
+}
+
+.Product small
+{
+    font-size: 1.8vh;
+    color: #545454;
+    margin: 1vh;
+}
+
+.ProductActionButtons
+{
+    display: flex;
+}

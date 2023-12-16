@@ -1,0 +1,8 @@
+{
+    "name": "Краска для волос",
+    "description": "Профессиональная краска с ухаживающими добавками",
+    "price": 15,
+    "category": "Красота и уход",
+    "receipt_date": "2023-07-05",
+    "image_url": "https://sidex.ru/images_offers/3912/3912430/kraska_palette_1.jpg"
+}

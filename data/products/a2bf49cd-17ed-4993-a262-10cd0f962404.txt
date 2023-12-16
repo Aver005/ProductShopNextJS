@@ -1,0 +1,8 @@
+{
+    "name": "Кресло офисное",
+    "description": "Эргономичное кресло с регулируемой высотой и спинкой",
+    "price": 120,
+    "category": "Мебель",
+    "receipt_date": "2023-11-25",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

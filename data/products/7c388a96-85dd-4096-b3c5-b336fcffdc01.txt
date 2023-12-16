@@ -1,0 +1,8 @@
+{
+    "name": "Грецкие орехи",
+    "description": "Полезные орехи с высоким содержанием омега-3",
+    "price": 200,
+    "category": "Орехи и семена",
+    "receipt_date": "2023-12-30",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

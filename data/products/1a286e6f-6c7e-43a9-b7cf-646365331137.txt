@@ -1,0 +1,8 @@
+{
+    "name": "Футбольный мяч",
+    "description": "Мяч для футбола, размер 5",
+    "price": 20,
+    "category": "Спорт и отдых",
+    "receipt_date": "2024-05-25",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

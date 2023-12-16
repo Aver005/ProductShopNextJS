@@ -1,0 +1,8 @@
+{
+    "name": "Чай зеленый",
+    "description": "Высококачественный зеленый чай с нежным ароматом",
+    "price": 15,
+    "category": "Напитки",
+    "receipt_date": "2024-06-30",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

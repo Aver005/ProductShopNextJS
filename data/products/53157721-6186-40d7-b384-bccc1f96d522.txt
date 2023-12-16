@@ -1,0 +1,8 @@
+{
+    "name": "Молоко органическое",
+    "description": "Органическое молоко от фермерской коровы",
+    "price": 150,
+    "category": "Молочные продукты",
+    "receipt_date": "2023-06-30",
+    "image_url": "https://avatars.mds.yandex.net/get-eda/3547279/79abe601b1cda68cdc122e2f4c7d31c6/1200x1200nocrop"
+}

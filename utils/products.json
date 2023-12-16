@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Кофе Arabica",
+    "description": "Высокогорная арабика с богатым вкусом",
+    "price": 250,
+    "category": "Напитки",
+    "receipt_date": "2023-01-05",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Лапша рисовая",
+    "description": "Безглютеновая лапша из рисовой муки",
+    "price": 120,
+    "category": "Продукты",
+    "receipt_date": "2023-02-10",
+    "image_url": "https://i3.stat01.com/1/4418/44175928/075a3e/quot-sen-soj-quot-risovaya-lapsha-fo-ho-paket-200gr.jpg"
+  },
+  {
+    "name": "Фирменная футболка",
+    "description": "100% хлопок, логотип бренда на груди",
+    "price": 30,
+    "category": "Одежда",
+    "receipt_date": "2023-03-15",
+    "image_url": "https://cdn.lbtq.io/productImage/resize/1200x1600_40cd750bba9870f18aada2478b24840a/20180411/124/20180411124534_004191383_1.jpg"
+  },
+  {
+    "name": "Яблоки Гала",
+    "description": "Сочные и сладкие яблоки сорта Гала",
+    "price": 80,
+    "category": "Фрукты",
+    "receipt_date": "2023-04-20",
+    "image_url": "https://fruitsparadise.ru/wp-content/uploads/2020/09/гала-1.jpg"
+  },
+  {
+    "name": "Ноутбук HP Pavilion",
+    "description": "15.6'' дисплей, процессор Intel Core i5, 8 ГБ RAM",
+    "price": 800,
+    "category": "Электроника",
+    "receipt_date": "2023-05-25",
+    "image_url": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/47132/1_47132.jpg"
+  },
+  {
+    "name": "Молоко органическое",
+    "description": "Органическое молоко от фермерской коровы",
+    "price": 150,
+    "category": "Молочные продукты",
+    "receipt_date": "2023-06-30",
+    "image_url": "https://avatars.mds.yandex.net/get-eda/3547279/79abe601b1cda68cdc122e2f4c7d31c6/1200x1200nocrop"
+  },
+  {
+    "name": "Краска для волос",
+    "description": "Профессиональная краска с ухаживающими добавками",
+    "price": 15,
+    "category": "Красота и уход",
+    "receipt_date": "2023-07-05",
+    "image_url": "https://sidex.ru/images_offers/3912/3912430/kraska_palette_1.jpg"
+  },
+  {
+    "name": "Семена подсолнечника",
+    "description": "Высокоурожайные семена для посадки",
+    "price": 5,
+    "category": "Садоводство",
+    "receipt_date": "2023-08-10",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Паста гречневая",
+    "description": "Паста из гречневой муки, идеальна для безглютеновой диеты",
+    "price": 90,
+    "category": "Продукты",
+    "receipt_date": "2023-09-15",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Теннисные мячи",
+    "description": "Упаковка из 4 теннисных мячей для тренировок",
+    "price": 25,
+    "category": "Спорт и отдых",
+    "receipt_date": "2023-10-20",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Кресло офисное",
+    "description": "Эргономичное кресло с регулируемой высотой и спинкой",
+    "price": 120,
+    "category": "Мебель",
+    "receipt_date": "2023-11-25",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Грецкие орехи",
+    "description": "Полезные орехи с высоким содержанием омега-3",
+    "price": 200,
+    "category": "Орехи и семена",
+    "receipt_date": "2023-12-30",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Камера Canon EOS",
+    "description": "Зеркальная камера с разрешением 24 мегапикселя",
+    "price": 600,
+    "category": "Электроника",
+    "receipt_date": "2024-01-05",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Сок апельсиновый",
+    "description": "Свежевыжатый сок из спелых апельсинов",
+    "price": 40,
+    "category": "Напитки",
+    "receipt_date": "2024-02-10",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Рюкзак городской",
+    "description": "Удобный рюкзак для повседневного использования",
+    "price": 50,
+    "category": "Аксессуары",
+    "receipt_date": "2024-03-15",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Курица органическая",
+    "description": "Органическая курица, выращенная без использования антибиотиков",
+    "price": 180,
+    "category": "Мясо и птица",
+    "receipt_date": "2024-04-20",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Футбольный мяч",
+    "description": "Мяч для футбола, размер 5",
+    "price": 20,
+    "category": "Спорт и отдых",
+    "receipt_date": "2024-05-25",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Чай зеленый",
+    "description": "Высококачественный зеленый чай с нежным ароматом",
+    "price": 15,
+    "category": "Напитки",
+    "receipt_date": "2024-06-30",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Коврик для йоги",
+    "description": "Антистатический коврик для практики йоги",
+    "price": 30,
+    "category": "Спорт и отдых",
+    "receipt_date": "2024-07-05",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  },
+  {
+    "name": "Мышь беспроводная",
+    "description": "Беспроводная мышь с технологией быстрой зарядки",
+    "price": 35,
+    "category": "Электроника",
+    "receipt_date": "2024-08-10",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+  }
+]

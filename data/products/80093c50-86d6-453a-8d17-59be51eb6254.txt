@@ -1,0 +1,8 @@
+{
+    "name": "Кофе Arabica",
+    "description": "Высокогорная арабика с богатым вкусом",
+    "price": 250,
+    "category": "Напитки",
+    "receipt_date": "2023-01-05",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

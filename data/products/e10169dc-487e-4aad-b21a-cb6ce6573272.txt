@@ -1,0 +1,8 @@
+{
+    "name": "Ноутбук HP Pavilion",
+    "description": "15.6'' дисплей, процессор Intel Core i5, 8 ГБ RAM",
+    "price": 800,
+    "category": "Электроника",
+    "receipt_date": "2023-05-25",
+    "image_url": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/47132/1_47132.jpg"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Сок апельсиновый",
+    "description": "Свежевыжатый сок из спелых апельсинов",
+    "price": 40,
+    "category": "Напитки",
+    "receipt_date": "2024-02-10",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}

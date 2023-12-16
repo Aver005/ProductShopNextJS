@@ -1,0 +1,8 @@
+{
+    "name": "Рюкзак городской",
+    "description": "Удобный рюкзак для повседневного использования",
+    "price": 50,
+    "category": "Аксессуары",
+    "receipt_date": "2024-03-15",
+    "image_url": "https://kofe24.ru/images/detailed/10/330471.jpg"
+}
